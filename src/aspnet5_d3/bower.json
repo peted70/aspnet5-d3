@@ -1,0 +1,7 @@
+{
+  "name": "aspnet5_d3",
+  "private": true,
+  "dependencies": {
+    "d3": "^3.5.6"
+  }
+}

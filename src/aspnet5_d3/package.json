@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "name": "aspnet5_d3",
+  "private": true,
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "gulp": "^3.9.0",
+    "gulp-bower": "^0.0.10"
+  }
+}
